@@ -2,6 +2,6 @@
 
 def say_hello(name)
   var = "Hello Ruby Programmer!"
-  if name = nil
+  if name = NIL
   return "Hello " + name + "!"
 end
